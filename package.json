@@ -1,0 +1,15 @@
+{
+  "name": "redux_study",
+  "version": "1.0.0",
+  "description": "react-redux-webpack study",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosicky/redux_study"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yosicky",
+  "license": "ISC"
+}
